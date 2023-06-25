@@ -6,3 +6,7 @@
 4. If your home was destroyed in a fire?
 
 Having a secure plan for quickly recovering from these scenarios is important.
+
+---
+
+#backup
