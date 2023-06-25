@@ -1,0 +1,7 @@
+# Show invisible files
+
+**⌘ ⇧** `.`
+
+---
+
+#macOS

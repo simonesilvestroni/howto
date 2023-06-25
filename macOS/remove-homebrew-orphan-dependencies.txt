@@ -1,0 +1,9 @@
+# Remove homebrew orphan dependencies
+
+```
+brew autoremove
+```
+
+---
+
+#macOS #Bash #CommandLine
