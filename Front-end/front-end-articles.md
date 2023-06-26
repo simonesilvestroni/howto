@@ -11,7 +11,6 @@
 | [Resilient, Declarative, Contextual](https://keithjgrant.com/posts/2018/06/resilient-declarative-contextual/) | #CSS |
 | [Breaking Out of a Central Wrapper](https://css-irl.info/breaking-out-of-a-central-wrapper/) | #CSS |
 | [Masonry In CSS](https://css-irl.info/masonry-in-css/) | #CSS |
-| [Steam Curator: Feminist Frequency](https://store.steampowered.com/curator/6954951-Feminist-Frequency) | #videogames |
 | [Stay away from CloudFlare](https://unixsheikh.com/articles/stay-away-from-cloudflare.html?utm_source=pocket_reader) | #web |
 | [Web Apps: Why Offering A Low Contrast Mode Makes You More Accessible, Not Less](https://blog.tiia.rocks/web-apps-why-offering-a-low-contrast-mode-makes-you-more-accessible-not-less) | #accessibility |
 
