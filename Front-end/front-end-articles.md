@@ -1,4 +1,4 @@
-# CSS links
+# Front-end articles
 
 | Title | Tags |
 |:--|:--|
