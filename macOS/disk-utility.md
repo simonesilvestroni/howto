@@ -72,6 +72,8 @@ Note: this cannot be used on macOS BigSur and newer.
 diskutil cs convert disk2s2 -passphrase
 ```
 
+Enter the passphrase when prompted.
+
 ## Reformat
 
 ```bash
