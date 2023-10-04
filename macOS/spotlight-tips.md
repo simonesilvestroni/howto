@@ -1,4 +1,4 @@
-Spotlight tips
+# Spotlight tips
 
 ## Search using the operators= AND, OR, NOT
 
@@ -14,7 +14,7 @@ Here are examples of what you might type in a search field when you use Boolean 
 
 For times when you want to find a particular file type on your Mac, Spotlight Search offers the option to modify search parameters to increase your chances of finding the correct file. You can do this by typing out the file name and appending “kind: format_type”. For example, if you want to look for a PDF file with the name “sample”, you will enter `sample kind: pdf` to find the particular file.
 
-## Search Items Using Natural Language
+## Search items using natural language
 
 Spotlight Search supports natural language search, which relies on algorithms to make sense of the words (in your queries) in the right context and serve you with relevant results accordingly. Using natural language, you can look up a lot of different items on your Mac.
 
@@ -31,7 +31,7 @@ A few uses of natural language:
 - Find nearby shops/eateries/theatres: look up nearby shops/eateries/theatres etc. in your locality.
 `Eg: theatres near me`
 
-## Shortcuts for Spotlight
+## Shortcuts
 
 | Shortcut                                         | Action                                                       |
 | ------------------------------------------------ | ------------------------------------------------------------ |
@@ -47,7 +47,7 @@ A few uses of natural language:
 | **⌘ + ↓**                                        | Move to the last result in the category                      |
 | **⌘ + L**                                        | Go to the first available Dictionary definition              |
 
-## Spotlight: narrow a search
+## Narrow a search
 
 1. Start your search on your Mac in Spotlight or in a Finder window.
 
@@ -111,15 +111,15 @@ To specify the type of item, add the text “kind:[*type of item*]” at the end
 
 There are several other keywords that you can use to find items, such as from, to, author, with, by, tag, title, name, keyword, and contains. To use a keyword, enter it followed by a colon, then enter your search  term. For example, enter “author:John” or “title:New York City.”
 
-## Spotlight in Terminal
+## In a Terminal
 
-Finds only matching filenames (instead of all files that contain the search text).
+Finds only matching filenames (instead of all files that contain the search text):
 
 ```bash
 mdfind -name
 ```
 
-## Spotlight: reset index
+### Reset index
 
 Turn Spotlight **off**:
 
