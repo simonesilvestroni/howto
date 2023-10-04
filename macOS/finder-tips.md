@@ -8,6 +8,16 @@ To make the Finder remember the new width, hold down the option key (`⌥`) whil
 
 The best documentation found on this from Apple alludes to the fact that holding down option resizes "all columns at once" but does not explicitly say that this makes the change persistent.
 
+## See all files in a folder
+
+In list view, select all by typing **⌘ A** and then **⌘ →**
+
+## Finder windows
+
+- **⌥ + double-click** on any window corner to make the window take up the whole visible space of the screen, without being ‘maximized’.
+- **double-click any edge** to make the window expand all the way to the border of the screen in the direction of the edge you clicked.
+- **⌥ + double-click** an edge to grow both in that direction and the opposite.
+
 ---
 
 #macOS
