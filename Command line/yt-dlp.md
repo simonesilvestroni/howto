@@ -14,7 +14,7 @@ The command returns a list. Assuming I'm interested in the video with ID `22` (u
 yt-dlp -f 22 <file-URL>
 ```
 
-## Download a playlist with `yt-dlp`
+## Download a YouTube playlist with `yt-dlp`
 
 ```
 yt-dlp -i <playlistID>
