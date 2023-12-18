@@ -8,10 +8,11 @@ Check type and quality:
 yt-dlp -F <file-URL>
 ```
 
-Assuming it's a video with ID `22`, then type:
+The command returns a list. Assuming I'm interested in the video with ID `22` (usually the highest quality on YouTube), type:
 
 ```
 yt-dlp -f 22 <file-URL>
+```
 
 ## Download a playlist with `yt-dlp`
 
